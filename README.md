@@ -1,4 +1,4 @@
-### ¡HOLA HUMANOS !
+# !HOLA HUMANOS¡
 
 - 👋 Hi, I’m Sandra I really liked learning about HTML. I'm a very curious person. I would like to be a web developer.
 - 👀 I’m interested in, Learn about object-oriented programming, French English and artificial intelligence.
@@ -12,30 +12,15 @@ Ajactle/Ajactle is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 ---> 
 
+## 🎯 SOME TECHNOLOGIES I USE:
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 
 
- # Markdown 
 
- # Encabezado 1
- ## Encabezado 2
- ### Encabezado 3
 
-# Estilos de Texto 
-**Palabra en negrita**
-
-*Palabra en cursiva*
-
-Este texto está equivocado
-
-Mi primera linea de código en python:
-
-print('Hola, Mundo!´)
-
-### Listas 
-
- - JavaScript
- * Python  
- + Goland
-  
-El markdown lo aprendi en [Tecnolochicas](https://tecnolochicas.mx/)
+ 
  
